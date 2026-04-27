@@ -8,9 +8,6 @@ Welcome, fellow explorer, to this Machine Learning repository! This is my person
 
 Machine Learning (ML) is a subfield of artificial intelligence (AI) that focuses on building systems that can learn from and make decisions based on data. Instead of being explicitly programmed to perform a task, ML algorithms use statistical techniques to enable them to improve their performance on a task with experience. Think of it like teaching a child: you show them examples, and they gradually learn to recognize patterns and make predictions.
 
-![ML Concept](https://images.unsplash.com/photo-1555949963-aa9fe0c977b8?q=80&w=1000&auto=format&fit=crop)
-*Image: A conceptual representation of data flowing into algorithms, leading to insights.*
-
 ---
 
 ### 📚 Diving into Learning Paradigms:
@@ -26,8 +23,6 @@ In supervised learning, we train our models on **labeled data**. This means each
     *   *Common Tasks:* Stock price prediction, weather forecasting, demand forecasting.
     *   *Algorithms:* Linear Regression, Polynomial Regression, Ridge Regression, Lasso Regression, Support Vector Regression (SVR).
 
-![Supervised Learning Example](https://images.unsplash.com/photo-1591696206503-298a3971556a?q=80&w=1000&auto=format&fit=crop)
-*Image: Visualizing labeled data points being classified into different groups.*
 
 #### 2. Unsupervised Learning: Discovering Hidden Patterns 🕵️‍♂️
 Unsupervised learning deals with **unlabeled data**. Here, the algorithm is left to its own devices to find structure and patterns within the data. There's no "correct answer" to guide it; it must discover them itself.
@@ -66,7 +61,7 @@ bash
 git clone https://github.com/phoenix-110-135/Machine-learning.git
 cd machine-learning-repo
 
-*(Remember to replace `your-username` with your actual GitHub username and `machine-learning-repo` with the actual repository name if it's different!)*
+*(Remember to replace `your-username` with your actual GitHub username and `machine-learning` with the actual repository name if it's different!)*
 Explore the Projects:
 
 Navigate into the 01_supervised_learning or 02_unsupervised_learning folders to find specific projects. Each project might have its own set of scripts or notebooks.
